@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+03:36:09	33192/33192	---MC-	404	error ('Not%20Found')	text/html	date:Tue,%2021%20Mar%202023%2000:44:12%20GMT	http://www.iitkgp.ac.in/robots.txt		(from )
+03:36:12	102811/102811	---MC-	200	added ('OK')	text/html	date:Tue,%2021%20Mar%202023%2000:44:12%20GMT	http://www.iitkgp.ac.in/	C:/Users/akgl_/projects/bootstrap/iit/www.iitkgp.ac.in/index.html	(from )

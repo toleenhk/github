@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.udemy.com	TRUE	/	FALSE	1999999999	__cf_bm	5MfPXlwntwPD0wmDbAOeDEI2HdvLWhS9zIfEeQUTIIA-1679363319-0-AW3vI0te051tolI9/xbltcLshvzor/l14zyi0SlW+oTEiTtFOEVr+9I8Xh2nsJYio7D22PW4tejA5JDZi5bPyxo=
+www.udemy.com	TRUE	/	FALSE	1999999999	SameSite	None
+

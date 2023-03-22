@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+03:50:18	66870/66870	---M-Z	200	added ('OK')	text/html	date:Tue,%2021%20Mar%202023%2000:41:12%20GMT	https://www.cornell.edu/	C:/Users/akgl_/projects/bootstrap/cornell/www.cornell.edu/index.html	(from )
+03:50:19	425/425	---M-Z	200	added ('OK')	text/plain	date:Mon,%2014%20Oct%202019%2020:20:43%20GMT	https://www.cornell.edu/robots.txt		(from )

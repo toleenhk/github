@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+04:40:38	538/538	---M-Z	200	added ('OK')	text/plain	etag:W/%226418f4e4-5fd%22	https://www.edx.org/robots.txt		(from )
+04:40:39	710295/710295	---MCZ	200	added ('OK')	text/html	etag:W/%226418f389-a43c8%22	https://www.edx.org/	C:/Users/akgl_/projects/bootstrap/edx/www.edx.org/index.html	(from )

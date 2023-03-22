@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.skillshare.com	TRUE	/	FALSE	1999999999	device_session_id	20b71713-ebeb-42ae-b6fe-2387c5f59ef5
+www.skillshare.com	TRUE	/	FALSE	1999999999	YII_CSRF_TOKEN	xGnrazjPOwBErh0Y7vwydhFjXQJPL7XIOvVq6X32vBV5TwDraaSRz5wO5NA17sKE6cYvwBPKTiS6htZMEzy3Jdk3fpS4
+www.skillshare.com	TRUE	/	FALSE	1999999999	accept_language	en
+.skillshare.com	TRUE	/	FALSE	1999999999	__cf_bm	WswmKx5v3SZJsnfqthAVpfefTukTN5WrL.GUF26aTN4-1679364145-0-AQszWHoBE2Bl5ouZhGGXQhN2VhovcUGxcthIYFG+jauvSUqfLIROpBHy9o+m78rnu7HdV3kmi60nCkrkCgMeTyjmbBlLLrfqjheXi5o1i6Td
+www.skillshare.com	TRUE	/	FALSE	1999999999	SameSite	None
+

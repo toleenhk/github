@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:53:25	178/178	---M--	200	added ('OK')	text/plain	etag:%2210e82e7e-b2-5272fd6a%22	https://www.mit.edu/robots.txt		(from )
+12:53:25	48206/48206	---M-Z	200	added ('OK')	text/html	etag:%2210e8a1e0-bc4e-64192bf7%22	https://www.mit.edu/	C:/Users/akgl_/projects/bootstrap/mit/www.mit.edu/index.html	(from )

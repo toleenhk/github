@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+04:33:21	539004/539004	---MCZ	200	added ('OK')	text/html	etag:W/%228397c-TvY42I1XdkxHhHhvL7k8VEf49us%22	https://www.coursera.org/courses?query=free	C:/Users/akgl_/projects/bootstrap/coursera/www.coursera.org/coursesbdb7.html	(from )
+04:33:22	271/271	---MCZ	200	added ('OK')	text/plain	etag:%22810792ef38d0270d49dc00a9405e7c15%22	https://www.coursera.org/robots.txt		(from )

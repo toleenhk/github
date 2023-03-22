@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.columbia.edu	TRUE	/	FALSE	1999999999	BIGipServer~CUIT~www.columbia.edu-443-pool	1764244352.47873.0000
+

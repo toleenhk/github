@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+03:44:38	178/178	---M--	301	error ('Moved%20Permanently')	text/html	date:Tue,%2021%20Mar%202023%2000:44:04%20GMT	https://www.iitm.ac.in/robots.txt		(from )
+03:44:38	178/178	---M--	301	error ('Moved%20Permanently')	text/html	date:Tue,%2021%20Mar%202023%2000:44:04%20GMT	https://www.iitm.ac.in/	C:/Users/akgl_/projects/bootstrap/IIT/www.iitm.ac.in/index.html	(from )

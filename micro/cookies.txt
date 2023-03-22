@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.microsoft.com	TRUE	/	FALSE	1999999999	AEMDC	westeurope
+www.microsoft.com	TRUE	/	FALSE	1999999999	akacd_OneRF	1687166822~rv=76~id=a108e89ad192119bf0c2bf2346333b86
+www.microsoft.com	TRUE	/	FALSE	1999999999	SameSite	None
+

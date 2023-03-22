@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+04:57:34	86/86	---MCZ	200	added ('OK')	text/plain	etag:W/%22315532801.0-74-760481249%22	https://swayam.gov.in/robots.txt		(from )
+04:57:36	178416/178416	---MCZ	200	added ('OK')	text/html	date:Tue,%2021%20Mar%202023%2001:57:37%20GMT	https://swayam.gov.in/	C:/Users/akgl_/projects/bootstrap/swayam/swayam.gov.in/index.html	(from )

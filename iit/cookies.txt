@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.iitkgp.ac.in	TRUE	/	FALSE	1999999999	JSESSIONID	1000A448221A7B0ABDDCC43813ED7437
+

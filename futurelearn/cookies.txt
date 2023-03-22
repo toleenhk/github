@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.futurelearn.com	TRUE	/	FALSE	1999999999	AWSALBTG	MjcwSEA5q18I3FkaKMAxrcR+XmetNTRgTGt5Vl5vBINTYHoFYpCXpbtqBxgxOCPlgkLz7JmBp74g1lwlWLU2e0Co9ldBk/vCbChryJ3//P/KoHwhvgKIKsuZbkQllWK8TxXyR/rSS5CHxIzl7Yafy1VGcA6ezCjfRcz/B/gn452R
+www.futurelearn.com	TRUE	/	FALSE	1999999999	AWSALBTGCORS	MjcwSEA5q18I3FkaKMAxrcR+XmetNTRgTGt5Vl5vBINTYHoFYpCXpbtqBxgxOCPlgkLz7JmBp74g1lwlWLU2e0Co9ldBk/vCbChryJ3//P/KoHwhvgKIKsuZbkQllWK8TxXyR/rSS5CHxIzl7Yafy1VGcA6ezCjfRcz/B/gn452R
+www.futurelearn.com	TRUE	/	FALSE	1999999999	ahoy_visitor	6f2d743c-c8f0-4711-802a-d290e2ac0881
+www.futurelearn.com	TRUE	/	FALSE	1999999999	ahoy_visit	5d72b04b-c8ea-4ee4-adce-22dd3ae322ee
+www.futurelearn.com	TRUE	/	FALSE	1999999999	test_identity	e43c1c8fc06ce6c1ce48442b321804cf
+www.futurelearn.com	TRUE	/	FALSE	1999999999	font_loaded	1
+www.futurelearn.com	TRUE	/	FALSE	1999999999	_csrf_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IklrbFdNMkpwYm5WRFluQlpNVlJGWVRSWFREbFNkamxGYlU5WVNWTllhRzA0VjJkMlowaElVMUU0VmswOUlnPT0iLCJleHAiOiIyMDI0LTAzLTIxVDAxOjQzOjU1LjkzMloiLCJwdXIiOm51bGx9fQ%3D%3D--fb17140f31fb025b21e59e98ffa02ed4fd45aeac
+www.futurelearn.com	TRUE	/	FALSE	1999999999	_future_learn_session	8mUutUEElHwL%2BHBCsXQzcNNoFPoVQQn6CC6yHz0JUK7C8m6pX%2FNZjr50HjFr0e9Y8A%3D%3D--T0T4vDlFFFXG%2B59D--KbezHNTJiVN2Nwh%2BfUCljA%3D%3D
+www.futurelearn.com	TRUE	/	FALSE	1999999999	SameSite	None
+

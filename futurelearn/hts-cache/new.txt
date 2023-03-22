@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+04:43:54	514/514	---MC-	301	error ('Moved%20Permanently')	text/html	date:Tue,%2021%20Mar%202023%2001:43:55%20GMT	https://www.futurelearn.com/robots.txt		(from )
+04:43:55	294487/294487	---MCZ	200	added ('OK')	text/html	date:Tue,%2021%20Mar%202023%2001:43:56%20GMT	https://www.futurelearn.com/	C:/Users/akgl_/projects/bootstrap/futurelearn/www.futurelearn.com/index.html	(from )

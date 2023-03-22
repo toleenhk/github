@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+04:59:07	2468/2468	---MCZ	200	added ('OK')	text/plain	etag:W/%226409b9f8-190d6%22	https://www.linkedin.com/robots.txt		(from )
+04:59:07	120186/120186	---M-Z	200	added ('OK')	text/html	date:Tue,%2021%20Mar%202023%2001:59:07%20GMT	https://www.linkedin.com/	C:/Users/akgl_/projects/bootstrap/linked/www.linkedin.com/index.html	(from )

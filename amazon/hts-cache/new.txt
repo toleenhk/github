@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+01:02:24	1355/1355	---M-Z	200	added ('OK')	text/plain	etag:%22a850165d925db701988daf7ead7492d3%22	https://www.amazon.com/robots.txt		(from )
+01:02:25	370363/370363	---MCZ	200	added ('OK')	text/html	date:Mon,%2020%20Mar%202023%2022:02:25%20GMT	https://www.amazon.com/	C:/Users/akgl_/projects/bootstrap/amazon/www.amazon.com/index.html	(from )

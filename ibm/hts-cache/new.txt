@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:28:23	76687/76687	---M-Z	200	added ('OK')	text/html	etag:%2212a05-5f679523dc5fd-gzip%22	https://www.ibm.com/us-en/	C:/Users/akgl_/projects/bootstrap/ibm/www.ibm.com/us-en/index.html	(from )
+12:28:24	1200/1200	---M-Z	200	added ('OK')	text/plain	etag:%22f58-5f7084ce866fa-gzip%22	https://www.ibm.com/robots.txt		(from )
